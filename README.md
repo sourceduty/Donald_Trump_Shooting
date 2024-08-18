@@ -11,7 +11,7 @@ The incident has led to significant criticism of the Secret Service and calls fo
 
 ![Remote Detonator](https://github.com/user-attachments/assets/8417c5e6-a705-434a-bab0-bb0a7a5bea4e)
 
-The gunman, identified as Thomas Matthew Crooks, accessed the roof of a building near the rally by sneaking past minimal security measures in the area. The specific details about how he managed to get onto the roof, including whether he had prior knowledge or assistance, have not been fully disclosed. The incident has sparked criticism of the security arrangements and led to an independent review ordered by President Biden
+The gunman, identified as Thomas Matthew Crooks, accessed the roof of a building near the rally by sneaking past minimal security measures in the area. The specific details about how he managed to get onto the roof, including whether he had prior knowledge or assistance, have not been fully disclosed. The incident has sparked criticism of the security arrangements and led to an independent review ordered by President Biden.
 
 #
 ### Security Problem
