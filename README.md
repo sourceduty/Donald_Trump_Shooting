@@ -46,7 +46,7 @@ Wikipedia includes lists and locations of terrorism due to the encyclopedic natu
 
 > "*Integrating firearm operators into a national military system could ensure that they receive enhanced national security, standardization, high-quality training, which might enhance safety, honorability and proficiency.*"
 
-> "*There was a delay in this response due to the partial and unorganized news stories.*"
+> "*There was a delay in this repo due to the partial and unorganized news stories.*"
 
 #
 
