@@ -45,6 +45,8 @@ Moreover, the corruption of national honor through guns is perpetuated by politi
 ### Related Links
 
 [Guns](https://github.com/sourceduty/Guns)
+<br>
+[Terrorism](https://github.com/sourceduty/Terrorism)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
