@@ -41,5 +41,10 @@ Moreover, the corruption of national honor through guns is perpetuated by politi
 
 > "*Integrating firearm operators into a national military system could ensure that they receive enhanced national security, standardization, high-quality training, which might enhance safety, honorability and proficiency.*"
 
+#
+### Related Links
+
+[Guns](https://github.com/sourceduty/Guns)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
