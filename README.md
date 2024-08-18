@@ -1,6 +1,6 @@
 ![Trump](https://github.com/user-attachments/assets/0a12e2fb-8a1c-4ee6-8843-7e099fab0a4a)
 
->  Open investigation of former president coincidental Donald Trump's shooting at 6:11 PM on the 13th of July 2024 in Butler, Pennsylvania.
+>  Open investigation of former president Donald Trump's coincidental shooting at 6:11 PM on the 13th of July 2024 in Butler, Pennsylvania.
 
 #
 
