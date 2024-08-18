@@ -30,5 +30,7 @@ However, these enhanced security measures come with significant challenges for t
 
 > Alex: "*Those who are approved to operate firearms should be integrated into a national military system and forced to honor the country they live in.*"
 
+> "*Integrating firearm operators into a national military system could ensure that they receive enhanced national security, standardization, high-quality training, which might enhance safety, honorability and proficiency.*"
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
