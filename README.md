@@ -36,6 +36,11 @@ In many countries, the right to own and use guns has become deeply entwined with
 Moreover, the corruption of national honor through guns is perpetuated by political and social systems that equate strength with the ability to wield force. In such contexts, national honor is not about the ethical responsibility to protect citizens, but rather about projecting power and control. This creates an environment where the value of life is diminished, and the potential for violence is normalized, all in the name of maintaining an image of strength and honor. Over time, this erosion of true national honor leads to a fractured society, where the original ideals of justice, peace, and mutual respect are overshadowed by a culture of fear and aggression.
 
 #
+### Recording Terrorism
+
+Wikipedia includes lists and locations of terrorism due to the encyclopedic nature of the platform, which aims to provide comprehensive information on a wide range of topics, including those of significant public interest and concern. Documenting terrorist incidents, organizations, and related activities serves to inform the public, provide historical context, and support research and education. These entries are typically well-sourced from credible publications, ensuring that the information presented is accurate and reliable. The inclusion of such content reflects Wikipedia's commitment to covering notable and impactful events, even when they are controversial or sensitive in nature.
+
+#
 
 > Alex: "*Those who are approved to operate firearms should be integrated into a national military system and forced to honor the country they live in.*"
 
