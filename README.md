@@ -24,5 +24,9 @@ However, these enhanced security measures come with significant challenges for t
 
 ![Roof Gunman](https://github.com/user-attachments/assets/06680935-d474-4db6-9aba-8b32efc25008)
 
+#
+
+Alex: "Those who are approved to operate firearms should be integrated into a national military system and forced to homor the country they live in."
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
