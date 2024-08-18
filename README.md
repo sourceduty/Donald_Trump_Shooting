@@ -1,5 +1,7 @@
 ![Trump](https://github.com/user-attachments/assets/0a12e2fb-8a1c-4ee6-8843-7e099fab0a4a)
 
+>  Open investigation of former president coincidental Donald Trump's shooting at 6:11 PM on the 13th of July 2024 in Butler, Pennsylvania.
+
 #
 
 On July 13, 2024, former President Donald Trump survived an assassination attempt during a campaign rally in Butler, Pennsylvania. The shooter, a 20-year-old man, fired multiple rounds from an AR-15–style rifle, striking Trump in the upper right ear. The attack also resulted in the death of one audience member and left two others critically injured. The gunman was killed by Secret Service agents. Trump was treated and released from the hospital the same day and resumed public appearances shortly after.
