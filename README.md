@@ -73,6 +73,8 @@ Efforts to counteract the spread of such fake news face significant challenges, 
 [Terrorism](https://github.com/sourceduty/Terrorism)
 <br>
 [Wikipedia](https://github.com/sourceduty/Wikipedia)
+<br>
+[Politics](https://github.com/sourceduty/Politics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
