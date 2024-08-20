@@ -59,7 +59,7 @@ Efforts to counteract the spread of such fake news face significant challenges, 
 
 > "*There was a delay in this repo due to the partial and unorganized news stories.*"
 
-> "*Before this shooting, I thought American security guarding presidents was a nightmare for shooters within a strict radius.*"
+> "*Before this shooting, I thought American security guarding presidents was a nightmare for shooters within a strict perimiter.*"
 
 #
 
