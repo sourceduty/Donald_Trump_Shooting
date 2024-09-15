@@ -52,18 +52,36 @@ The propagation of this fake news was exacerbated by the echo chambers that exis
 Efforts to counteract the spread of such fake news face significant challenges, as debunking efforts often lag behind the initial wave of misinformation. Once the fake story had gained momentum, even reputable news outlets and fact-checkers found it difficult to reach the same audiences that had been exposed to the false claims. This incident highlights the importance of media literacy among the public and the need for social media platforms to implement more effective measures to curb the spread of false information, especially when it involves sensitive or potentially dangerous content like the alleged shooting of a former president.
 
 #
+### Coincidental Information and Timing
 
-> Alex: "*Those who are approved to operate firearms should be integrated into a national military system and forced to honor the country they live in.*"
+The attempted assassination of Donald Trump on July 13, 2024, during a campaign rally in Butler, Pennsylvania, is marked by a series of coincidences that have sparked public debate.
 
-> "*Integrating firearm operators into a national military system could ensure that they receive enhanced national security, standardization, high-quality training, which might enhance safety, honorability and proficiency.*"
+These specific points have drawn attention to this political televised event:
 
-> "*There was a delay in this repo due to the partial and unorganized news stories.*"
+#### 1. The timing of the attack, which occurred at 6:11 PM.
 
-> "*Before this shooting, I thought American security guarding presidents was a nightmare for shooters within a strict perimiter.*"
+The shooter was given the opportunity to and chose to shoot at 6:11 PM.
+
+#### 2. The attack was two days before the Republican National Convention, which could change Trump's momentum as the presumptive Republican nominee.
+
+The shooting occured coincedentally before the Republican National Convention.
+
+#### 3. The Secret Service counter-snipers were deployed for the first time in 2024.
+
+The Secret Service counter-snipers weren't deployed in 2024 before this shooting but were probably deployed because of the buildings surrounding the stage area.
+
+#### 4. The counter-snipers were facing the same direction as the shooter. 
+
+The building from which the shooter fired at the Trump rally in Butler, Pennsylvania, was a low-height structure that would have been easy to access. Its proximity to the rally site and the fact that it offered a clear line of sight made it an obvious choice for an attack. Counter-snipers likely identified this building as a potential threat beforehand due to these factors: low height, ease of access, and an unobstructed view of the stage. 
+
+#### 5. Trump was directly facing the direction of the shooter when he was struck by a bullet grazing his ear.
+
+Trump coincedentally turned and pointed towards a digital screen that displayed statistics before he was struck.
 
 #
+### Preventing Coincedental Events
 
-![Security Control](https://github.com/user-attachments/assets/5eeb7c0c-67da-41b9-b384-3138bf031c25)
+To prevent coincidental timing during public events and enhance security, comprehensive planning and coordination are essential. This includes conducting thorough site assessments to identify vulnerable points, such as low-height buildings or easily accessible areas that could serve as vantage points for attackers. Implementing layered security measures, such as setting perimeters, deploying counter-snipers, and maintaining real-time communication between local police and federal agencies, can mitigate risks. Additionally, varying the timing and location of events can reduce predictability, further minimizing the chances of targeted attacks.
 
 #
 ### Related Links
