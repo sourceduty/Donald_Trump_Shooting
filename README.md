@@ -121,6 +121,8 @@ Furthermore, Musk’s business interests in sectors that benefit from deregulati
 [Wikipedia](https://github.com/sourceduty/Wikipedia)
 <br>
 [Politics](https://github.com/sourceduty/Politics)
+<br>
+[News](https://github.com/sourceduty/News)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
