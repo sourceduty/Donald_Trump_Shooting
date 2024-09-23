@@ -123,6 +123,8 @@ Furthermore, Musk’s business interests in sectors that benefit from deregulati
 [Politics](https://github.com/sourceduty/Politics)
 <br>
 [News](https://github.com/sourceduty/News)
+<br>
+[Trump Simulator](https://github.com/sourceduty/Trump_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
