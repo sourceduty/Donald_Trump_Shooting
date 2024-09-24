@@ -1,8 +1,17 @@
-![Trump](https://github.com/user-attachments/assets/0a12e2fb-8a1c-4ee6-8843-7e099fab0a4a)
+![Trump CSI](https://github.com/user-attachments/assets/3113006e-d30d-42d9-af9c-008b486d792d)
 
 >  Open investigation of former president Donald Trump's coincidental shooting at 6:11 PM on the 13th of July 2024 in Butler, Pennsylvania.
 
 #
+
+The top image is a contains several distinct segments. The top section features a screenshot from a Fox News broadcast showing Donald Trump speaking at a rally in Butler, Pennsylvania. He is wearing a red “Make America Great Again” cap and standing behind a podium, while a crowd of supporters holds up various signs, including one that reads, "Joe Biden, YOU’RE FIRED!" The banner on the screen reads, “BREAKING NEWS: NOW: TRUMP RALLIES IN PIVOTAL SWING STATE OF PA,” highlighting the importance of the event in the political landscape.
+
+The bottom left part of the collage shows William Petersen, best known for his role as Gil Grissom on the TV series CSI. He is dressed casually in a Chicago Cubs jersey and is in the middle of a baseball throw, suggesting a ceremonial pitch or similar event. His appearance contrasts with the formal and political context of the rally shown in the top section, adding an element of celebrity culture to the overall image.
+
+The bottom right section features a young child dressed as Donald Trump, complete with a suit, red tie, and a wig styled to resemble Trump’s distinctive hair. The child's expression is serious, possibly mimicking Trump’s demeanor. This playful portrayal adds a humorous and surreal touch to the collage, juxtaposing the political seriousness of the rally and the celebrity element with a caricatured representation of the former president.
+
+#
+### The Shooting
 
 On July 13, 2024, former President Donald Trump survived an assassination attempt during a campaign rally in Butler, Pennsylvania. The shooter, a 20-year-old man, fired multiple rounds from an AR-15–style rifle, striking Trump in the upper right ear. The attack also resulted in the death of one audience member and left two others critically injured. The gunman was killed by Secret Service agents. Trump was treated and released from the hospital the same day and resumed public appearances shortly after.
 
@@ -110,6 +119,10 @@ Furthermore, Musk’s business interests in sectors that benefit from deregulati
 #
 
 ![The Nation USA Meme](https://github.com/user-attachments/assets/ae064dd3-3390-453d-a667-6d5355ec1222)
+
+#
+
+![Trump](https://github.com/user-attachments/assets/0a12e2fb-8a1c-4ee6-8843-7e099fab0a4a)
 
 #
 ### Related Links
