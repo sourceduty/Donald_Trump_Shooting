@@ -13,6 +13,8 @@ The bottom right section features a young child dressed as Donald Trump, complet
 #
 ### The Shooting
 
+![JFK Trump](https://github.com/user-attachments/assets/b2b06a78-bc92-4823-a566-f5c2337ba568)
+
 On July 13, 2024, former President Donald Trump survived an assassination attempt during a campaign rally in Butler, Pennsylvania. The shooter, a 20-year-old man, fired multiple rounds from an AR-15–style rifle, striking Trump in the upper right ear. The attack also resulted in the death of one audience member and left two others critically injured. The gunman was killed by Secret Service agents. Trump was treated and released from the hospital the same day and resumed public appearances shortly after.
 
 The incident has led to significant criticism of the Secret Service and calls for increased security for political candidates, especially in the heated environment leading up to the 2024 presidential election. An independent review of the security arrangements has been ordered by President Biden​.
