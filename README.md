@@ -20,6 +20,15 @@ On July 13, 2024, former President Donald Trump survived an assassination attemp
 The incident has led to significant criticism of the Secret Service and calls for increased security for political candidates, especially in the heated environment leading up to the 2024 presidential election. An independent review of the security arrangements has been ordered by President Biden​.
 
 #
+###
+
+![Trump Grissom](https://github.com/user-attachments/assets/997bd245-5834-47b1-a552-9bbbc4ffcc31)
+
+When comparing Donald Trump (left) to actor William Petersen as Gil Grissom (right), there are some noticeable similarities, especially from the side profile perspective. Both men have a fuller facial structure with broader jaws, giving their faces a somewhat rounded appearance. Their noses appear relatively similar in terms of size and shape, with both showing a straight, slightly downward tilt. Additionally, both figures have lighter complexions and are seen wearing caps, further contributing to a resemblance in overall head shape from this angle.
+
+However, there are also differences in their features. Trump's face appears to have more pronounced fullness around the cheeks and jawline, giving it a rounder overall look, while Petersen as Gil Grissom has a slightly leaner facial structure with a more angular jawline. Furthermore, while both men show some signs of aging, Petersen has a beard in this image, contrasting with Trump’s clean-shaven look, which adds texture to his facial features. Despite these differences, the two share some structural similarities, particularly in the shape of their noses and general face shape. I would rate their facial similarity around 9 out of 10.
+
+#
 ### Gunman
 
 ![Remote Detonator](https://github.com/user-attachments/assets/8417c5e6-a705-434a-bab0-bb0a7a5bea4e)
