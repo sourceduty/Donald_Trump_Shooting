@@ -29,6 +29,17 @@ When comparing Donald Trump (left) to actor William Petersen as Gil Grissom (rig
 However, there are also differences in their features. Trump's face appears to have more pronounced fullness around the cheeks and jawline, giving it a rounder overall look, while Petersen as Gil Grissom has a slightly leaner facial structure with a more angular jawline. Furthermore, while both men show some signs of aging, Petersen has a beard in this image, contrasting with Trump’s clean-shaven look, which adds texture to his facial features. Despite these differences, the two share some structural similarities, particularly in the shape of their noses and general face shape. I would rate their facial similarity around 9 out of 10.
 
 #
+### Face Compare
+
+![AFIS from CSI](https://github.com/user-attachments/assets/9cd4b9ed-a7cd-462d-957d-c30c03edc40f)
+
+In the television series CSI: Crime Scene Investigation, the Automated Fingerprint Identification System (AFIS) is frequently utilized by the team to compare fingerprint evidence collected from crime scenes against a vast database of stored fingerprints. AFIS works by analyzing the minutiae of a fingerprint, including ridge patterns, loops, whorls, and other distinctive characteristics, to find potential matches. This system is integral in forensic investigations, as it allows investigators to identify individuals with a high degree of accuracy, often narrowing down suspects or confirming identities based on these biometric markers. AFIS's efficiency lies in its ability to scan large amounts of data quickly, providing investigators with critical leads.
+
+[Face Compare](https://chatgpt.com/g/g-DEjaX4w55-face-compare), like AFIS, functions as a comparison tool, but instead of focusing on fingerprints, it compares facial features. Just as AFIS breaks down the components of a fingerprint to find points of similarity or difference, this GPT analyzes facial attributes such as symmetry, proportions, and specific features like the nose, jawline, and eyes. While it doesn't work with a vast database like AFIS does for fingerprints, it serves a similar role in breaking down and detailing the nuances of facial structure to offer an informed comparison. Both systems rely on precise data extraction and analysis to provide useful insights that can assist users in identifying similarities or differences between subjects, whether it’s in a forensic investigation or a casual interest in facial recognition.
+
+The ethical considerations are another point of similarity between AFIS and this custom GPT. Both systems are designed to operate without making biased assumptions or overreaching conclusions. AFIS identifies potential fingerprint matches but doesn't conclude guilt or innocence on its own, leaving the final decision to human investigators. Similarly, this GPT avoids making inferences about a person’s identity, personality, or emotions based solely on their appearance. It provides objective, feature-based comparisons to inform users without imposing subjective or speculative judgments, ensuring that privacy and ethical integrity are upheld in both systems.
+
+#
 ### Gunman
 
 ![Remote Detonator](https://github.com/user-attachments/assets/8417c5e6-a705-434a-bab0-bb0a7a5bea4e)
