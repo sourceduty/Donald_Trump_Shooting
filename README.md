@@ -124,7 +124,7 @@ Furthermore, Musk’s business interests in sectors that benefit from deregulati
 
 #
 
-![Trump](https://github.com/user-attachments/assets/0a12e2fb-8a1c-4ee6-8843-7e099fab0a4a)
+![Donald Cena](https://github.com/user-attachments/assets/7b56d5a0-8be8-4db3-ab29-a88cfc90c6bb)
 
 #
 ### Related Links
