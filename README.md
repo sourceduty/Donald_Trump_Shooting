@@ -22,7 +22,7 @@ The incident has led to significant criticism of the Secret Service and calls fo
 #
 ### Donald Trump CSI Gil Grisson Comparison
 
-![Trump Grissom](https://github.com/user-attachments/assets/997bd245-5834-47b1-a552-9bbbc4ffcc31)
+![Trump Grissom](https://github.com/user-attachments/assets/36351d53-a8b6-431f-bbf0-ba6d24540492)
 
 When comparing Donald Trump (left) to actor William Petersen as Gil Grissom (right), there are some noticeable similarities, especially from the side profile perspective. Both men have a fuller facial structure with broader jaws, giving their faces a somewhat rounded appearance. Their noses appear relatively similar in terms of size and shape, with both showing a straight, slightly downward tilt. Additionally, both figures have lighter complexions and are seen wearing caps, further contributing to a resemblance in overall head shape from this angle.
 
