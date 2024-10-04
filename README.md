@@ -20,7 +20,7 @@ On July 13, 2024, former President Donald Trump survived an assassination attemp
 The incident has led to significant criticism of the Secret Service and calls for increased security for political candidates, especially in the heated environment leading up to the 2024 presidential election. An independent review of the security arrangements has been ordered by President Biden​.
 
 #
-### Donald Trump CSI Gil Grisson Comparison
+### Donald Trump CSI Gil Grissom Comparison
 
 ![Trump Grissom](https://github.com/user-attachments/assets/36351d53-a8b6-431f-bbf0-ba6d24540492)
 
