@@ -11,6 +11,15 @@ The bottom left part of the collage shows William Petersen, best known for his r
 The bottom right section features a young child dressed as Donald Trump, complete with a suit, red tie, and a wig styled to resemble Trump’s distinctive hair. The child's expression is serious, possibly mimicking Trump’s demeanor. This playful portrayal adds a humorous and surreal touch to the collage, juxtaposing the political seriousness of the rally and the celebrity element with a caricatured representation of the former president.
 
 #
+### National Security Bias
+
+![Fake Authority](https://github.com/user-attachments/assets/055f6146-8fbb-455e-8b97-c04ef47d1c0f)
+
+National security bias and information control are interconnected dynamics that shape how governments manage, protect, and sometimes manipulate information to maintain a sense of order and security. National security bias refers to the tendency of state institutions and policymakers to favor certain information, narratives, or actions that align with perceived security interests. This bias can influence the way intelligence is gathered, assessed, and shared, leading to a narrowed perspective that prioritizes security over transparency or public access to information. The consequences of such a bias can include the suppression of alternative viewpoints and critical information, potentially resulting in public mistrust or a skewed understanding of both domestic and global events.
+
+Information control, on the other hand, is the process by which governments regulate or restrict the flow of information, often justified under the premise of safeguarding national security. This control can be exercised through various means, including censorship, surveillance, or legal restrictions on media and public communication. While some degree of information control may be necessary to protect sensitive data, it often raises ethical concerns, particularly when it infringes on freedom of expression or limits public knowledge. Combined with national security bias, information control can create an environment where the public’s understanding of critical issues is heavily filtered, reinforcing government narratives at the expense of a more comprehensive or objective view. These practices highlight the delicate balance between protecting national interests and maintaining a transparent, informed society.
+
+#
 ### The Shooting
 
 ![JFK Trump](https://github.com/user-attachments/assets/b2b06a78-bc92-4823-a566-f5c2337ba568)
