@@ -1,4 +1,6 @@
 ![Trump CSI](https://github.com/user-attachments/assets/3113006e-d30d-42d9-af9c-008b486d792d)
+![Canada](https://github.com/user-attachments/assets/14899bfd-5a4b-4b20-bbb7-ed58ba2382b4)
+![The Nation USA Meme](https://github.com/user-attachments/assets/ae064dd3-3390-453d-a667-6d5355ec1222)
 
 >  Open investigation of former president Donald Trump's coincidental shooting at 6:11 PM on the 13th of July 2024 in Butler, Pennsylvania.
 
@@ -146,8 +148,6 @@ If Elon Musk endorses Trump, a staged shooting could strategically benefit Musk 
 Musk, who has emphasized distrust of mainstream media and advocates for decentralized platforms like X (formerly Twitter), could leverage the event to position himself as a champion of transparency and free speech. By endorsing Trump, Musk might highlight his platforms as places for unfiltered discourse, gaining users and boosting engagement on X, especially if mainstream media coverage of the event is framed as biased or incomplete.
 
 Furthermore, Musk’s business interests in sectors that benefit from deregulation or favorable governmental policies, such as space exploration, AI development, and social media, could see an advantage under a Trump presidency. Supporting Trump could potentially enhance Musk's influence in shaping policy decisions that impact his ventures, strengthening his position in key industries while pushing his own political and economic agendas.
-
-![The Nation USA Meme](https://github.com/user-attachments/assets/ae064dd3-3390-453d-a667-6d5355ec1222)
 
 #
 
