@@ -155,6 +155,8 @@ Furthermore, Musk’s business interests in sectors that benefit from deregulati
 
 > "*Investigations are ongoing and will continue until my death.*"
 
+> "*I'm Canadian and USA is a shithole.*"
+
 #
 ### Related Links
 
