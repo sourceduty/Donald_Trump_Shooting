@@ -1,6 +1,5 @@
 ![Trump CSI](https://github.com/user-attachments/assets/3113006e-d30d-42d9-af9c-008b486d792d)
-![Canada](https://github.com/user-attachments/assets/14899bfd-5a4b-4b20-bbb7-ed58ba2382b4)
-![The Nation USA Meme](https://github.com/user-attachments/assets/ae064dd3-3390-453d-a667-6d5355ec1222)
+
 
 >  Open investigation of former president Donald Trump's coincidental shooting at 6:11 PM on the 13th of July 2024 in Butler, Pennsylvania.
 
@@ -149,6 +148,10 @@ Musk, who has emphasized distrust of mainstream media and advocates for decentra
 
 Furthermore, Musk’s business interests in sectors that benefit from deregulation or favorable governmental policies, such as space exploration, AI development, and social media, could see an advantage under a Trump presidency. Supporting Trump could potentially enhance Musk's influence in shaping policy decisions that impact his ventures, strengthening his position in key industries while pushing his own political and economic agendas.
 
+#
+![The Nation USA Meme](https://github.com/user-attachments/assets/ae064dd3-3390-453d-a667-6d5355ec1222)
+#
+![Canada](https://github.com/user-attachments/assets/8fc5afa5-2976-47de-a835-c43362d458dd)
 #
 
 > Alex: "*Nationally created and privately secured digital records, such as this exact news story, are shared with other nations via the internet. These records are difficult, if not impossible, for most other nations or citizens to definitively prove or disprove. In such cases, local security agencies control the records for local citizens and inbound investigators. There is no international security force responsible for investigating nations and their local security measures. Attempting to prove or disprove locally secured events on an international level is nearly impossible. To prevent the spread of these records and their methods of creation, they can and should be disregarded.*"
