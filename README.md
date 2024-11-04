@@ -153,6 +153,8 @@ Furthermore, Musk’s business interests in sectors that benefit from deregulati
 
 > Alex: "*Nationally created and privately secured digital records, such as this exact news story, are shared with other nations via the internet. These records are difficult, if not impossible, for most other nations or citizens to definitively prove or disprove. In such cases, local security agencies control the records for local citizens and inbound investigators. There is no international security force responsible for investigating nations and their local security measures. Attempting to prove or disprove locally secured events on an international level is nearly impossible. To prevent the spread of these records and their methods of creation, they can and should be disregarded.*"
 
+> "*Investigations are ongoing and will continue until my death.*"
+
 #
 ### Related Links
 
