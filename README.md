@@ -151,14 +151,10 @@ Furthermore, Musk’s business interests in sectors that benefit from deregulati
 #
 ![The Nation USA Meme](https://github.com/user-attachments/assets/ae064dd3-3390-453d-a667-6d5355ec1222)
 #
-![Canada](https://github.com/user-attachments/assets/8fc5afa5-2976-47de-a835-c43362d458dd)
+![Canada USA](https://github.com/user-attachments/assets/3f087f3c-774f-48e2-bec9-fc69f589a940)
 #
 
 > Alex: "*Nationally created and privately secured digital records, such as this exact news story, are shared with other nations via the internet. These records are difficult, if not impossible, for most other nations or citizens to definitively prove or disprove. In such cases, local security agencies control the records for local citizens and inbound investigators. There is no international security force responsible for investigating nations and their local security measures. Attempting to prove or disprove locally secured events on an international level is nearly impossible. To prevent the spread of these records and their methods of creation, they can and should be disregarded.*"
-
-> "*Investigations are ongoing and will continue until my death.*"
-
-> "*I'm Canadian and USA is a shithole.*"
 
 #
 ### Related Links
