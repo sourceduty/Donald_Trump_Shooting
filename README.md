@@ -95,6 +95,8 @@ Efforts to counteract the spread of such fake news face significant challenges, 
 #
 ### Coincidental Information and Timing
 
+![Tie Missing](https://github.com/user-attachments/assets/5a6da743-a56b-4680-b4da-bd85e1867ebf)
+
 The attempted assassination of Donald Trump on July 13, 2024, during a campaign rally in Butler, Pennsylvania, is marked by a series of coincidences that have sparked public debate.
 
 These specific points have drawn attention to this political televised event:
