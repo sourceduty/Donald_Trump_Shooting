@@ -66,6 +66,8 @@ The gunman, identified as Thomas Matthew Crooks, accessed the roof of a building
 #
 ### Security Problem
 
+![Security](https://github.com/user-attachments/assets/2c08d207-e6fa-49f2-9609-af7fc871c591)
+
 The rising threats against presidential candidates have necessitated increased security measures by the Secret Service. As the political climate grows more polarized, candidates face a heightened risk of violence, prompting the Secret Service to bolster their protective efforts. These measures include expanding the security details assigned to each candidate, enhancing surveillance and intelligence-gathering capabilities, and increasing coordination with local law enforcement agencies during campaign events. The growing prevalence of online threats and the possibility of coordinated attacks have also led to the use of more sophisticated technology to monitor potential dangers, ensuring the safety of candidates in various public and private settings.
 
 However, these enhanced security measures come with significant challenges for the Secret Service. The agency must balance the need for protection with the candidates' ability to connect with voters, as too much security can create barriers between candidates and the public. Additionally, the financial and logistical demands of providing comprehensive security for an increasing number of candidates strain the agency's resources. The Secret Service is tasked with the difficult job of adapting to an evolving threat landscape while maintaining the operational flexibility required to protect candidates effectively without undermining the democratic process.
