@@ -75,13 +75,11 @@ However, these enhanced security measures come with significant challenges for t
 ![Roof Gunman](https://github.com/user-attachments/assets/06680935-d474-4db6-9aba-8b32efc25008)
 
 #
-### Weapons and Honor Corruption
+### Detonator
 
-The corruption of national honor in the context of gun culture occurs when the principles of national pride, security, and responsibility are distorted to justify the proliferation and misuse of firearms. National honor, ideally, is tied to the protection of citizens, upholding justice, and maintaining peace. However, when the idea of honor is conflated with the aggressive assertion of power and the unrestricted right to bear arms, it becomes corrupted. This distortion allows for the glorification of violence and the defense of harmful practices under the guise of protecting national pride and freedom.
+![Detonator](https://github.com/user-attachments/assets/35b69cc8-624c-48be-bd0b-fbefe6a05f6a)
 
-In many countries, the right to own and use guns has become deeply entwined with the concept of national honor, often leading to a warped sense of patriotism. The narrative that equates gun ownership with the defense of national values can pressure individuals to prioritize the possession of firearms over the safety and well-being of the community. This can result in a culture where the misuse of guns is tolerated or even celebrated, as it is seen as a way to assert one's rights and uphold a distorted version of national honor. The result is a society where violence is justified, and the true principles of national pride—such as respect for life and the rule of law—are undermined.
-
-Moreover, the corruption of national honor through guns is perpetuated by political and social systems that equate strength with the ability to wield force. In such contexts, national honor is not about the ethical responsibility to protect citizens, but rather about projecting power and control. This creates an environment where the value of life is diminished, and the potential for violence is normalized, all in the name of maintaining an image of strength and honor. Over time, this erosion of true national honor leads to a fractured society, where the original ideals of justice, peace, and mutual respect are overshadowed by a culture of fear and aggression.
+The August 28, 2024, WESA article details the FBI investigation into the July 13, 2024, assassination attempt on former President Donald Trump, focusing on the actions and preparation of the shooter, Thomas Matthew Crooks. Forensic evidence, including the contents of Crooks' car trunk, highlights the premeditated nature of the attack. The trunk contained items such as a green box with wiring, taped components, and other materials suggestive of a potential improvised explosive device (IED). These findings indicate extensive planning, aligning with the shooter’s documented months-long escalation in online searches about Trump and event-specific preparations following the announcement of the Butler rally.
 
 #
 ### Recording Terrorism
