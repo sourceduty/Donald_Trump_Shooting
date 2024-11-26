@@ -12,6 +12,15 @@ The bottom left part of the collage shows William Petersen, best known for his r
 The bottom right section features a young child dressed as Donald Trump, complete with a suit, red tie, and a wig styled to resemble Trump’s distinctive hair. The child's expression is serious, possibly mimicking Trump’s demeanor. This playful portrayal adds a humorous and surreal touch to the collage, juxtaposing the political seriousness of the rally and the celebrity element with a caricatured representation of the former president.
 
 #
+### Fake Public Shooting
+
+The July 13, 2024, shooting incident involving former President Donald Trump at a rally in Butler, Pennsylvania, not only sparked conspiracy theories but also raised significant concerns about national security and the role of private law enforcement. Some theorists claimed the event was staged, with allegations of "crisis actors" and fake blood, suggesting an orchestrated attempt to manipulate public sentiment. These narratives spread rapidly across social media, drawing attention away from the deeper questions of security protocols and the blurred lines between public and private enforcement entities tasked with maintaining order during such high-profile events.
+
+Law enforcement agencies, including the FBI and Secret Service, have worked to counteract these unfounded claims while defending the integrity of their operations. Investigations confirmed that the shooter, Thomas Matthew Crooks, acted alone in his attempt to harm Trump. However, the involvement of private security firms in securing the rally venue highlighted grey areas in accountability and coordination. Private law enforcement often operates in spaces where jurisdictional boundaries overlap with public agencies, creating potential gaps in communication and operational clarity that can compromise national security.
+
+The incident underscores the growing reliance on private law enforcement to supplement public resources, particularly in high-stakes situations involving political figures. While private entities offer flexibility and specialized expertise, their integration into national security frameworks raises questions about oversight, legal authority, and responsibility in moments of crisis. Addressing these grey areas is essential to preventing future incidents, ensuring public trust, and fostering a clear delineation of roles between private security forces and government agencies in protecting national leaders.
+
+#
 ### National Security Bias
 
 ![Fake Authority](https://github.com/user-attachments/assets/055f6146-8fbb-455e-8b97-c04ef47d1c0f)
