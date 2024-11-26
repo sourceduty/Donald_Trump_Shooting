@@ -92,6 +92,8 @@ Private police in the United States are non-governmental security organizations 
 
 The growth of private police forces in the U.S. reflects broader concerns about public safety, gaps in public policing, and the increasing willingness of organizations to invest in tailored security solutions. Critics, however, raise concerns about accountability and oversight, as private police are not always subject to the same regulations, transparency, and training requirements as public officers. This can lead to potential abuses of power and unequal access to security based on socioeconomic disparities. Despite these challenges, private policing continues to expand, fueled by technological advances like surveillance systems and a growing market for private security in a wide range of sectors.
 
+At the Trump shooting incident, reports indicated that the police present were part of a private security force. Private police forces, such as those hired for high-profile individuals or events, operate under specific contracts and are typically employed to provide specialized protection. While private police can sometimes be authorized to display "POLICE" if granted legal authority by state or federal law, their jurisdiction and powers are limited compared to public law enforcement. These entities prioritize the security of their contracted areas or individuals, and their presence highlights the growing use of private security in contexts traditionally handled by public police. The legal boundaries of such private forces often raise questions about accountability, oversight, and the extent of their authority in public settings.
+
 #
 ### Detonator
 
