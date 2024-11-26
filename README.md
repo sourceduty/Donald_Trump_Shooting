@@ -41,6 +41,8 @@ However, there are also differences in their features. Trump's face appears to h
 #
 ### Who are You
 
+![The Who](https://github.com/user-attachments/assets/1ce34a6c-80d3-489d-a01a-7e90765c10bf)
+
 The song "Who Are You" is performed by The Who, a legendary British rock band. It serves as the theme song for the TV show CSI: Crime Scene Investigation. The track is from their 1978 album also titled Who Are You. The opening chorus, with its emphatic "Who are you? Who, who, who, who?", aligns perfectly with the show's investigative theme of uncovering identities and solving crimes.
 
 #
