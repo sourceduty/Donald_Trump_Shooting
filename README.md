@@ -77,6 +77,13 @@ However, these enhanced security measures come with significant challenges for t
 ![Roof Gunman](https://github.com/user-attachments/assets/06680935-d474-4db6-9aba-8b32efc25008)
 
 #
+### Private Police
+
+Private police in the United States are non-governmental security organizations or individuals hired to enforce specific rules, regulations, and laws within private or semi-public spaces. These entities are employed by businesses, communities, universities, and individuals to provide services that range from basic security to specialized investigations. Unlike public police, private police operate under contracts and serve their employers' interests rather than the general public. Their authority is typically derived from property rights or specific legal arrangements, such as detainment for trespassing on private property or making citizens' arrests. Examples of private policing include campus security, mall security, and gated community patrols, which often supplement or reduce the need for public law enforcement in these areas.
+
+The growth of private police forces in the U.S. reflects broader concerns about public safety, gaps in public policing, and the increasing willingness of organizations to invest in tailored security solutions. Critics, however, raise concerns about accountability and oversight, as private police are not always subject to the same regulations, transparency, and training requirements as public officers. This can lead to potential abuses of power and unequal access to security based on socioeconomic disparities. Despite these challenges, private policing continues to expand, fueled by technological advances like surveillance systems and a growing market for private security in a wide range of sectors.
+
+#
 ### Detonator
 
 ![Detonator](https://github.com/user-attachments/assets/35b69cc8-624c-48be-bd0b-fbefe6a05f6a)
