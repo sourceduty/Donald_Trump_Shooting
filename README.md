@@ -14,6 +14,8 @@ The bottom right section features a young child dressed as Donald Trump, complet
 #
 ### Fake Public Shooting
 
+![Life Contrast](https://github.com/user-attachments/assets/c3cb8025-d5c5-4c0d-9f1d-488bff20627b)
+
 The July 13, 2024, shooting incident involving former President Donald Trump at a rally in Butler, Pennsylvania, not only sparked conspiracy theories but also raised significant concerns about national security and the role of private law enforcement. Some theorists claimed the event was staged, with allegations of "crisis actors" and fake blood, suggesting an orchestrated attempt to manipulate public sentiment. These narratives spread rapidly across social media, drawing attention away from the deeper questions of security protocols and the blurred lines between public and private enforcement entities tasked with maintaining order during such high-profile events.
 
 Law enforcement agencies, including the FBI and Secret Service, have worked to counteract these unfounded claims while defending the integrity of their operations. Investigations confirmed that the shooter, Thomas Matthew Crooks, acted alone in his attempt to harm Trump. However, the involvement of private security firms in securing the rally venue highlighted grey areas in accountability and coordination. Private law enforcement often operates in spaces where jurisdictional boundaries overlap with public agencies, creating potential gaps in communication and operational clarity that can compromise national security.
