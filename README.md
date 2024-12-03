@@ -1,5 +1,4 @@
-![Trump CSI](https://github.com/user-attachments/assets/3113006e-d30d-42d9-af9c-008b486d792d)
-
+![Trumped](https://github.com/user-attachments/assets/a56a9369-069e-4b5e-8f78-4da2101f7e49)
 
 >  Open investigation of former president Donald Trump's coincidental shooting at 6:11 PM on the 13th of July 2024 in Butler, Pennsylvania.
 
@@ -14,7 +13,7 @@ The bottom right section features a young child dressed as Donald Trump, complet
 #
 ### Fake Public Shooting
 
-![Life Contrast](https://github.com/user-attachments/assets/c3cb8025-d5c5-4c0d-9f1d-488bff20627b)
+![Trump CSI](https://github.com/user-attachments/assets/3113006e-d30d-42d9-af9c-008b486d792d)
 
 The July 13, 2024, shooting incident involving former President Donald Trump at a rally in Butler, Pennsylvania, not only sparked conspiracy theories but also raised significant concerns about national security and the role of private law enforcement. Some theorists claimed the event was staged, with allegations of "crisis actors" and fake blood, suggesting an orchestrated attempt to manipulate public sentiment. These narratives spread rapidly across social media, drawing attention away from the deeper questions of security protocols and the blurred lines between public and private enforcement entities tasked with maintaining order during such high-profile events.
 
@@ -179,6 +178,9 @@ Furthermore, Musk’s business interests in sectors that benefit from deregulati
 
 #
 ### Repo Content Bias
+
+![Life Contrast](https://github.com/user-attachments/assets/c3cb8025-d5c5-4c0d-9f1d-488bff20627b)
+
 
 The content in this repo demonstrates several intertwined biases that influence the narrative. Media bias is evident in the portrayal of the event, particularly in the focus on sensationalism and political framing. For example, the emphasis on timing, sniper positioning, and Fox News’ coverage illustrates how news outlets and media narratives can amplify specific details to align with ideological leanings or provoke emotional reactions. Additionally, the critique of fake news propagation underscores the challenges of maintaining objectivity in an era of fragmented media ecosystems. This bias prioritizes polarized perspectives, often at the expense of nuance or balanced reporting.
 
