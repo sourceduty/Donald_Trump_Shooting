@@ -2,6 +2,7 @@
 ![Trump CSI](https://github.com/user-attachments/assets/3113006e-d30d-42d9-af9c-008b486d792d)
 
 >  Open investigation of former president Donald Trump's coincidental shooting at 6:11 PM on the 13th of July 2024 in Butler, Pennsylvania.
+#
 
 The July 13, 2024, shooting incident involving former President Donald Trump at a rally in Butler, Pennsylvania, not only sparked conspiracy theories but also raised significant concerns about national security and the role of private law enforcement. Some theorists claimed the event was staged, with allegations of "crisis actors" and fake blood, suggesting an orchestrated attempt to manipulate public sentiment. These narratives spread rapidly across social media, drawing attention away from the deeper questions of security protocols and the blurred lines between public and private enforcement entities tasked with maintaining order during such high-profile events.
 
