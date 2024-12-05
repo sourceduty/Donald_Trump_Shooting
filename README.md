@@ -1,19 +1,7 @@
 ![Trumped](https://github.com/user-attachments/assets/a56a9369-069e-4b5e-8f78-4da2101f7e49)
+![Trump CSI](https://github.com/user-attachments/assets/3113006e-d30d-42d9-af9c-008b486d792d)
 
 >  Open investigation of former president Donald Trump's coincidental shooting at 6:11 PM on the 13th of July 2024 in Butler, Pennsylvania.
-
-#
-
-The top image is a contains several distinct segments. The top section features a screenshot from a Fox News broadcast showing Donald Trump speaking at a rally in Butler, Pennsylvania. He is wearing a red “Make America Great Again” cap and standing behind a podium, while a crowd of supporters holds up various signs, including one that reads, "Joe Biden, YOU’RE FIRED!" The banner on the screen reads, “BREAKING NEWS: NOW: TRUMP RALLIES IN PIVOTAL SWING STATE OF PA,” highlighting the importance of the event in the political landscape.
-
-The bottom left part of the collage shows William Petersen, best known for his role as Gil Grissom on the TV series CSI. He is dressed casually in a Chicago Cubs jersey and is in the middle of a baseball throw, suggesting a ceremonial pitch or similar event. His appearance contrasts with the formal and political context of the rally shown in the top section, adding an element of celebrity culture to the overall image.
-
-The bottom right section features a young child dressed as Donald Trump, complete with a suit, red tie, and a wig styled to resemble Trump’s distinctive hair. The child's expression is serious, possibly mimicking Trump’s demeanor. This playful portrayal adds a humorous and surreal touch to the collage, juxtaposing the political seriousness of the rally and the celebrity element with a caricatured representation of the former president.
-
-#
-### Fake Public Shooting
-
-![Trump CSI](https://github.com/user-attachments/assets/3113006e-d30d-42d9-af9c-008b486d792d)
 
 The July 13, 2024, shooting incident involving former President Donald Trump at a rally in Butler, Pennsylvania, not only sparked conspiracy theories but also raised significant concerns about national security and the role of private law enforcement. Some theorists claimed the event was staged, with allegations of "crisis actors" and fake blood, suggesting an orchestrated attempt to manipulate public sentiment. These narratives spread rapidly across social media, drawing attention away from the deeper questions of security protocols and the blurred lines between public and private enforcement entities tasked with maintaining order during such high-profile events.
 
