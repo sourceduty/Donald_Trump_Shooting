@@ -150,6 +150,8 @@ Trump coincedentally turned and pointed towards a digital screen that displayed 
 #
 ### Preventing Coincedental Events
 
+![Trump](https://github.com/user-attachments/assets/3450120e-ce47-40cf-a5ee-9dd0dd72b1eb)
+
 To prevent coincidental timing during public events and enhance security, comprehensive planning and coordination are essential. This includes conducting thorough site assessments to identify vulnerable points, such as low-height buildings or easily accessible areas that could serve as vantage points for attackers. Implementing layered security measures, such as setting perimeters, deploying counter-snipers, and maintaining real-time communication between local police and federal agencies, can mitigate risks. Additionally, varying the timing and location of events can reduce predictability, further minimizing the chances of targeted attacks.
 
 #
