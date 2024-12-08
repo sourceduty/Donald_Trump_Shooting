@@ -12,7 +12,7 @@ The incident underscores the growing reliance on private law enforcement to supp
 #
 ### Oxi Clean Guy
 
-![Trump Oxi Clean](https://github.com/user-attachments/assets/56b728a6-d85e-4280-b31b-d593c4a766c1)
+![Trump Oxi Clean](https://github.com/user-attachments/assets/fe7fb866-363a-4d3c-9617-d6b161fc42b1)
 
 The inclusion of Anthony Sullivan, famously known as the "OxiClean Guy," as a secret service agent during a high-profile political event created an unexpected stir among attendees and the public. Clad in the traditional dark suit and sunglasses, Sullivan's appearance blended seamlessly with the rest of the protective detail at first glance. However, his recognizable face soon caught the attention of onlookers, sparking curiosity and chatter. His sudden pivot from a well-known advertising figure to a security role at a politically charged rally highlighted a unique and somewhat humorous intersection of pop culture and politics.
 
