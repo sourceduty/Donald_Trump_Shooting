@@ -1,4 +1,3 @@
-![Trumped](https://github.com/user-attachments/assets/a56a9369-069e-4b5e-8f78-4da2101f7e49)
 ![Trump CSI](https://github.com/user-attachments/assets/3113006e-d30d-42d9-af9c-008b486d792d)
 
 >  Open investigation of former president Donald Trump's coincidental shooting at 6:11 PM on the 13th of July 2024 in Butler, Pennsylvania.
@@ -9,6 +8,15 @@ The July 13, 2024, shooting incident involving former President Donald Trump at 
 Law enforcement agencies, including the FBI and Secret Service, have worked to counteract these unfounded claims while defending the integrity of their operations. Investigations confirmed that the shooter, Thomas Matthew Crooks, acted alone in his attempt to harm Trump. However, the involvement of private security firms in securing the rally venue highlighted grey areas in accountability and coordination. Private law enforcement often operates in spaces where jurisdictional boundaries overlap with public agencies, creating potential gaps in communication and operational clarity that can compromise national security.
 
 The incident underscores the growing reliance on private law enforcement to supplement public resources, particularly in high-stakes situations involving political figures. While private entities offer flexibility and specialized expertise, their integration into national security frameworks raises questions about oversight, legal authority, and responsibility in moments of crisis. Addressing these grey areas is essential to preventing future incidents, ensuring public trust, and fostering a clear delineation of roles between private security forces and government agencies in protecting national leaders.
+
+#
+### Oxi Clean Guy
+
+![Trump Oxi Clean](https://github.com/user-attachments/assets/56b728a6-d85e-4280-b31b-d593c4a766c1)
+
+The inclusion of Anthony Sullivan, famously known as the "OxiClean Guy," as a secret service agent during a high-profile political event created an unexpected stir among attendees and the public. Clad in the traditional dark suit and sunglasses, Sullivan's appearance blended seamlessly with the rest of the protective detail at first glance. However, his recognizable face soon caught the attention of onlookers, sparking curiosity and chatter. His sudden pivot from a well-known advertising figure to a security role at a politically charged rally highlighted a unique and somewhat humorous intersection of pop culture and politics.
+
+While Sullivan's presence might have initially been viewed as an unconventional addition, it quickly became apparent that his participation added an unexpected layer of lightheartedness to an otherwise tense situation. His calm demeanor and professional conduct reinforced the seriousness of his role, despite the novelty of his participation. Fans of his infomercial days marveled at his adaptability, while some speculated whether his role symbolized a broader narrative of blending entertainment with political stagecraft.
 
 #
 ### National Security Bias
@@ -94,6 +102,8 @@ The August 28, 2024, WESA article details the FBI investigation into the July 13
 #
 ### Recording Terrorism
 
+![Trumped](https://github.com/user-attachments/assets/a56a9369-069e-4b5e-8f78-4da2101f7e49)
+
 Wikipedia includes lists and locations of terrorism due to the encyclopedic nature of the platform, which aims to provide comprehensive information on a wide range of topics, including those of significant public interest and concern. Documenting terrorist incidents, organizations, and related activities serves to inform the public, provide historical context, and support research and education. These entries are typically well-sourced from credible publications, ensuring that the information presented is accurate and reliable. The inclusion of such content reflects Wikipedia's commitment to covering notable and impactful events, even when they are controversial or sensitive in nature.
 
 #
@@ -155,6 +165,13 @@ Government agencies, like the FBI, could fabricate personal evidence or construc
 In the modern age, disinformation campaigns have proven to be powerful tools for shaping public opinion. Advanced techniques like deepfakes and edited video footage could easily be used to create a false visual narrative, presenting a seemingly authentic version of a staged shooting. The chaotic nature of real-time crises, with conflicting reports and incomplete information, would further obscure the truth, allowing for manipulated evidence to dominate initial media narratives.
 
 Finally, a third party could interfere in the event by hacking or tampering with digital evidence or even releasing manipulated footage to create confusion and further alter public perception. By controlling the flow of information, they could influence how the event is reported both domestically and internationally. Since the event occurs within the U.S., foreign nations would have limited ability to openly criticize or investigate without infringing on U.S. sovereignty. This insulation from external scrutiny could help sustain a false narrative for longer periods.
+
+#
+### Return To Crime Scence
+
+![Trump Returned](https://github.com/user-attachments/assets/4f543b73-0917-4fa3-be15-b1efafe57218)
+
+In October 2024, former President Donald Trump returned to Butler, Pennsylvania, the site of a July assassination attempt during one of his rallies. Addressing a large crowd from behind bulletproof glass, Trump resumed his interrupted speech, emphasizing resilience and honoring Corey Comperatore, a supporter who died shielding his family during the July incident. A moment of silence was observed at 6:11 p.m., the exact time of the previous attack. The rally featured heightened security measures, including armed personnel on rooftops and restricted access to surrounding buildings. Elon Musk made a surprise appearance, urging attendees to vote.
 
 #
 ### Elon Musk Endorsement
