@@ -167,7 +167,7 @@ In the modern age, disinformation campaigns have proven to be powerful tools for
 Finally, a third party could interfere in the event by hacking or tampering with digital evidence or even releasing manipulated footage to create confusion and further alter public perception. By controlling the flow of information, they could influence how the event is reported both domestically and internationally. Since the event occurs within the U.S., foreign nations would have limited ability to openly criticize or investigate without infringing on U.S. sovereignty. This insulation from external scrutiny could help sustain a false narrative for longer periods.
 
 #
-### Return To Crime Scence
+### Return To Crime Scene
 
 ![Trump Returned](https://github.com/user-attachments/assets/4f543b73-0917-4fa3-be15-b1efafe57218)
 
