@@ -28,6 +28,15 @@ National security bias and information control are interconnected dynamics that 
 Information control, on the other hand, is the process by which governments regulate or restrict the flow of information, often justified under the premise of safeguarding national security. This control can be exercised through various means, including censorship, surveillance, or legal restrictions on media and public communication. While some degree of information control may be necessary to protect sensitive data, it often raises ethical concerns, particularly when it infringes on freedom of expression or limits public knowledge. Combined with national security bias, information control can create an environment where the public’s understanding of critical issues is heavily filtered, reinforcing government narratives at the expense of a more comprehensive or objective view. These practices highlight the delicate balance between protecting national interests and maintaining a transparent, informed society.
 
 #
+### Austin Evans
+
+![Austin Shooter](https://github.com/user-attachments/assets/4826333d-ab3e-4577-9c6b-48ad04b63a3f)
+
+Austin Evans, a well-known tech enthusiast and content creator, finds himself inexplicably hurled back in time to a pivotal moment in American history: the Trump Shooting event. As he grapples with the bewildering reality of his time-traveling predicament, he becomes increasingly entangled in the swirling chaos of political fervor and controversy surrounding the incident. Torn between his personal values and the pressures of this strange timeline, Austin discovers he has inexplicably been cast as the central figure in the event—marked as the shooter. Struggling to understand how or why he is in this role, he attempts to piece together the motives and circumstances of the act, all while navigating the repercussions of his presence in this volatile era.
+
+Unfolding against the backdrop of this dramatic historical moment, Austin's journey is one of internal conflict and ethical dilemmas. Armed with knowledge of the future, he debates whether to follow the course of events as they are remembered or to alter history in an attempt to right perceived wrongs. The collision between his modern sensibilities and the divisive political climate of the past forces him to confront not only the fragility of history but also the weight of personal responsibility. As the fateful event looms closer, Austin must make a choice that will not only define the moment but also determine the legacy of his unintended journey into the past.
+
+#
 ### The Shooting
 
 ![JFK Trump](https://github.com/user-attachments/assets/b2b06a78-bc92-4823-a566-f5c2337ba568)
