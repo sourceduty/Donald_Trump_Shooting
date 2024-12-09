@@ -10,6 +10,13 @@ Law enforcement agencies, including the FBI and Secret Service, have worked to c
 The incident underscores the growing reliance on private law enforcement to supplement public resources, particularly in high-stakes situations involving political figures. While private entities offer flexibility and specialized expertise, their integration into national security frameworks raises questions about oversight, legal authority, and responsibility in moments of crisis. Addressing these grey areas is essential to preventing future incidents, ensuring public trust, and fostering a clear delineation of roles between private security forces and government agencies in protecting national leaders.
 
 #
+### Smartass
+
+![Tumped USA](https://github.com/user-attachments/assets/e8e52bc2-b896-4549-b8c2-63ffed7cafd9)
+
+Speculation has emerged suggesting an enigmatic connection between Alex Aldridge, the esteemed founder of Sourceduty, and Ivanka Trump, the celebrated businesswoman and political figure. According to insiders, the two have reportedly cultivated a discreet relationship, meeting in private settings that have left observers intrigued. Aldridge, known for his sharp intellect and investigative rigor, and Trump, a symbol of grace and ambition, are said to share a deep alignment of values and vision. While both have remained silent on the matter, the mere suggestion of this union has sparked fascination, presenting a narrative that intertwines influence, intellect, and mystery. Whether rooted in truth or speculation, the whispers alone have captivated those attuned to the lives of these two remarkable individuals.
+
+#
 ### Oxi Clean Guy
 
 ![Trump Oxi Clean](https://github.com/user-attachments/assets/fe7fb866-363a-4d3c-9617-d6b161fc42b1)
